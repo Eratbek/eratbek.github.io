@@ -1,12 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	background-color: #DC191C;
+	background-color: #4B4243 ;
 
 }
 h1{
-	color:#86282A;}
-.fortd{
+	color: #3514DB;}
+.fortd{color:#F3ECED;
 	}
 .title{
 	
@@ -16,4 +16,8 @@ h1{
 	border: 3px dashed #261111;
 	font-size:15px;
 	}
+	.cols{
+	color:#E30C10;
+	}
+	
 
