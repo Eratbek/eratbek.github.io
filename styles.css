@@ -2,13 +2,18 @@
 /* CSS Document */
 body{
 	text-decoration:none;
-	font-size:36px;
+	font-size:14px;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-	bgcolor:#A29D9D;
+
 color:#000000;
-background:rasmlar/fon.jpg;
-background-repeat: no-repeat ;
+background-image: url("rasmlar/fon.jpg");
+
 	}
+table,th,td{
+	border-collapse: collapse;
+	font-size: 18pt;
+	border: 1px solid  #B4AFAF;
+}
 a{
 	color:#000000;
 	text-decoration:none;
@@ -16,3 +21,19 @@ a{
 a:hover{
 	color:#FFFFFF;
 	text-decoration:none;}
+.fortable{
+	background-color: #908A8E;
+	width:100%;
+
+}
+.er{
+	padding : 4px 4px 4px 4px; 
+ } 
+.er a:hover{
+     background:#A7A4A6;
+	 color:#7A69E5;
+     display: block;
+}
+.title{
+	width:50%;
+	background-color:#FFFFFF;}
